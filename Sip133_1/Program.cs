@@ -51,6 +51,7 @@ namespace Sip133_1
                 Console.WriteLine("Физическое состояние:\nОжирение третей степени");
                 Console.WriteLine("Риск и патология:\n Диабет инсулинозависимый, инфаркт, инсульт, рак");
             }
+            Console.WriteLine("Будьте здоровы!");
             Console.ReadKey();
             
             
